@@ -1,0 +1,15 @@
+C:\DarinaGit\MySeminarForC6\task45\bin\Debug\net6.0\task45.exe
+C:\DarinaGit\MySeminarForC6\task45\bin\Debug\net6.0\task45.deps.json
+C:\DarinaGit\MySeminarForC6\task45\bin\Debug\net6.0\task45.runtimeconfig.json
+C:\DarinaGit\MySeminarForC6\task45\bin\Debug\net6.0\task45.dll
+C:\DarinaGit\MySeminarForC6\task45\bin\Debug\net6.0\task45.pdb
+C:\DarinaGit\MySeminarForC6\task45\obj\Debug\net6.0\task45.csproj.AssemblyReference.cache
+C:\DarinaGit\MySeminarForC6\task45\obj\Debug\net6.0\task45.GeneratedMSBuildEditorConfig.editorconfig
+C:\DarinaGit\MySeminarForC6\task45\obj\Debug\net6.0\task45.AssemblyInfoInputs.cache
+C:\DarinaGit\MySeminarForC6\task45\obj\Debug\net6.0\task45.AssemblyInfo.cs
+C:\DarinaGit\MySeminarForC6\task45\obj\Debug\net6.0\task45.csproj.CoreCompileInputs.cache
+C:\DarinaGit\MySeminarForC6\task45\obj\Debug\net6.0\task45.dll
+C:\DarinaGit\MySeminarForC6\task45\obj\Debug\net6.0\refint\task45.dll
+C:\DarinaGit\MySeminarForC6\task45\obj\Debug\net6.0\task45.pdb
+C:\DarinaGit\MySeminarForC6\task45\obj\Debug\net6.0\task45.genruntimeconfig.cache
+C:\DarinaGit\MySeminarForC6\task45\obj\Debug\net6.0\ref\task45.dll
